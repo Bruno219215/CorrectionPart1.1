@@ -1,0 +1,19 @@
+div {
+      width:200px;
+      height:200px;
+      border: 1px solid red;
+
+        }
+.bandeau1{
+  background-image:url("../img/bg1.png");
+  background-repeat: repeat;
+}
+.bandeau2 {
+  background-image:url("../img/bg2.png");
+  background-size: contain;
+  }
+.bandeau3 {
+  background-image:url("../img/bg3.png");
+  background-position:right bottom;
+
+}
